@@ -1,7 +1,7 @@
 ### Hi there, I'm Vian! 👋
 🚀 **Mobile Engineer (Flutter) & AI Enthusiast**
 
-Saya mahasiswa tingkat akhir CSIE yang berfokus pada pengembangan aplikasi mobile yang terintegrasi dengan Artificial Intelligence. Suka membangun antarmuka yang cantik (Pixel Perfect) dengan logika backend yang solid.
+I'm a final-year CSIE student specializing in developing mobile applications integrated with Artificial Intelligence. I am passionate about bridging the gap between beautiful, **Pixel-Perfect** interfaces and robust backend logic.
 
 **🛠 Tech Stack:**
 * 📱 **Mobile:** Flutter, Dart, iOS Native
@@ -10,5 +10,5 @@ Saya mahasiswa tingkat akhir CSIE yang berfokus pada pengembangan aplikasi mobil
 * ⚙️ **Tools:** Git, Firebase, REST APIs
 
 **🏆 Featured Project:**
-**[SIMY - AI Personal Assistant](link_repo_simy_kamu)**
-Aplikasi asisten pribadi iOS dengan kemampuan penglihatan (Vision) dan memori jangka panjang.
+**[SIMY - AI Personal Assistant](https://github.com/viansuryajayaa/SIMY-AI-Assistant)**
+An iOS personal assistant application equipped with Vision capabilities and long-term memory retention.
