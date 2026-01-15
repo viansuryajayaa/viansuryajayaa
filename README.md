@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Vian! 👋
+🚀 **Mobile Engineer (Flutter) & AI Enthusiast**
 
-<!--
-**viansuryajayaa/viansuryajayaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya mahasiswa tingkat akhir CSIE yang berfokus pada pengembangan aplikasi mobile yang terintegrasi dengan Artificial Intelligence. Suka membangun antarmuka yang cantik (Pixel Perfect) dengan logika backend yang solid.
 
-Here are some ideas to get you started:
+**🛠 Tech Stack:**
+* 📱 **Mobile:** Flutter, Dart, iOS Native
+* 🤖 **AI/ML:** Google Gemini API, TensorFlow Lite
+* 🎨 **Design:** Figma, UI/UX Principles
+* ⚙️ **Tools:** Git, Firebase, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🏆 Featured Project:**
+**[SIMY - AI Personal Assistant](link_repo_simy_kamu)**
+Aplikasi asisten pribadi iOS dengan kemampuan penglihatan (Vision) dan memori jangka panjang.
